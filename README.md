@@ -22,7 +22,7 @@ Will be supplemented/changed later with:
 
 ### Images
 
-Note! Styling is messed up for now.. It will be fixed..
+Note: The styling is currently inconsistent, but it will be fixed.
 
 ![Alt text](Frontend/angular-ecommerce/src/assets/readme/armour.png)
 ![Alt text](Frontend/angular-ecommerce/src/assets/readme/checkout.png)
