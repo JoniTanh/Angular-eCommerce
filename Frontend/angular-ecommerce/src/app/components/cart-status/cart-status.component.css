@@ -1,0 +1,36 @@
+.cart-area {
+    font-family: 'Arial', sans-serif;
+    position: relative;
+    display: inline-block;
+    background-color: #333;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+.cart-area:hover {
+    background-color: #555;
+}
+
+.cart-area a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.cart-area .total {
+    margin-right: 15px;
+}
+
+.cart-area .fa-shopping-cart {
+    font-size: 20px;
+}
+
+.cart-area span {
+    background-color: #007BFF;
+    padding: 3px 6px;
+    border-radius: 3px;
+    margin-left: 5px;
+    color: white
+}

@@ -1,0 +1,35 @@
+.menu-sidebar-content {
+    background-color: #f7f7f7;
+    max-width: 300px;
+    border-right: 1px solid #e0e0e0;
+    border-top: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+    min-height: calc(100vh - 252px);
+    border-radius: 5px;
+}
+
+.navbar-sidebar {
+    padding: 15px;
+}
+
+.list-unstyled {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.navbar-list > li {
+    margin-bottom: 10px;
+}
+
+.navbar-list > li > a {
+    color: #333;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    display: block;
+}
+
+.navbar-list > li > a:hover, .navbar-list > li > a.active-link {
+    background-color: #007BFF;
+    color: #fff;
+}
