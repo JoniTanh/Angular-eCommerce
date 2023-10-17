@@ -55,7 +55,7 @@ INSERT INTO `state` VALUES
 (10,'Heinola',1),
 (11,'Hämeenlinna',1),
 (12,'Hollola',1),
-(13,'Alberta',2),
+(13,'Uppsala',2),
 (14,'Tukholma',2),
 (15,'Haaparanta',2);
 
